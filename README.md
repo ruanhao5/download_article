@@ -37,10 +37,12 @@ In lab, sometimes I need to download articles and collate relevant information
 
 - Citation：
   论文的引用信息，格式为：标题，期刊，vol(no),pp,year
-  目前存在的问题，如果某个数字不存在，会变成NaN
-  后续有待改进
+  
+  目前存在的问题，如果某个数字不存在，会变成NaN，后续有待改进……
   
 - Author：
-  论文的作者信息，简单的根据 `;` 分开作者姓名
+  论文的作者信息
+  
+  简单的根据 `;` 分开作者姓名
   
 其余功能及改进，有待后续进行……
